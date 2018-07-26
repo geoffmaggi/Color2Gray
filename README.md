@@ -28,4 +28,3 @@
 >    
 > ========== Bug fixes: ==================
 >  NaN or out of range values in images* (Fixed)
-> =========================================
