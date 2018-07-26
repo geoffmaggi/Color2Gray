@@ -27,5 +27,5 @@
 >    - Based off the work of Dalton J(http://www.daltonize.org)
 >    
 > ========== Bug fixes: ==================
->    - NaN or out of range values in images* (Fixed)
+>  NaN or out of range values in images* (Fixed)
 > =========================================
