@@ -1,4 +1,4 @@
-#Color 2 Gray
+# Color 2 Gray
   
   Based off Color2Gray: Salience-Preserving Color Removal. Amy A. Gooch, Sven C. Olsen, Jack Tumblin, and Bruce Gooch. SIGGRAPH 05
   http://www.cs.northwestern.edu/~ago820/color2gray/color2gray.pdf
@@ -26,6 +26,6 @@
  *  - Recoloring for individuals with color blindness :)
  *    - Based off the work of Dalton J(http://www.daltonize.org)
  *    
- *  ========== Bug fixes: ==================
- *    - NaN or out of range values in images* (Fixed)
- * =========================================
+========== Bug fixes: ==================
+   - NaN or out of range values in images* (Fixed)
+=========================================
